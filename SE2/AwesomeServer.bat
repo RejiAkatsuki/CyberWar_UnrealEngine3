@@ -1,0 +1,1 @@
+G:\UDK07\Binaries\Win32\UDK.exe server AwesomeTestMapUpdate?GoalScore=0?TimeLimit=0?Game=cyberwar.CyberGame -log
